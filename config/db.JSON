@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Tomato",
+        "price" : 8,
+        "category" : "vagetable",
+        "image" : "https://img.etimg.com/thumb/width-640,height-480,imgsize-56196,resizemode-75,msid-95423731/magazines/panache/5-reasons-why-tomatoes-should-be-your-favourite-fruit-this-year/tomatoes-canva.jpg"
+    },
+    {
+        "name" : "Carrot",
+        "price" : 15,
+        "category" : "vagetable",
+        "image" : "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/06/carrot-tubers-3XT3MJA.webp?fit=1946%2C1688&ssl=1"
+    },
+    {
+        "name" : "Beef",
+        "price" : 80,
+        "category" : "meat",
+        "image" : "https://www.allrecipes.com/thmb/zN81HQ86Fa2rHnkH-KUvUf6pBZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cuts-of-Beef-3x2-1-a557f31f8b13462185b4f2c17ab5b746.png"
+    },
+    {
+        "name" : "Mutton",
+        "price" : 90,
+        "category" : "meat",
+        "image" : "https://thekitchencommunity.org/wp-content/uploads/2022/10/mutton-meat.jpeg"
+    },
+    {
+        "name" : "Chiken",
+        "price" : 50,
+        "category" : "meat",
+        "image" : "https://content.jdmagicbox.com/comp/malappuram/k6/9999px483.x483.180503190939.t1k6/catalogue/chiken-shop-kottakkal-malappuram-1myr0vhspt.jpg?clr="
+    },
+    {
+        "name" : "Tomato",
+        "price" : 8,
+        "category" : "vagetable",
+        "image" : "https://img.etimg.com/thumb/width-640,height-480,imgsize-56196,resizemode-75,msid-95423731/magazines/panache/5-reasons-why-tomatoes-should-be-your-favourite-fruit-this-year/tomatoes-canva.jpg"
+    },
+    {
+        "name" : "Carrot",
+        "price" : 15,
+        "category" : "vagetable",
+        "image" : "https://i0.wp.com/nextcashandcarry.com.ng/wp-content/uploads/2022/06/carrot-tubers-3XT3MJA.webp?fit=1946%2C1688&ssl=1"
+    },
+    {
+        "name" : "Beef",
+        "price" : 80,
+        "category" : "meat",
+        "image" : "https://www.allrecipes.com/thmb/zN81HQ86Fa2rHnkH-KUvUf6pBZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cuts-of-Beef-3x2-1-a557f31f8b13462185b4f2c17ab5b746.png"
+    },
+    {
+        "name" : "Mutton",
+        "price" : 90,
+        "category" : "meat",
+        "image" : "https://thekitchencommunity.org/wp-content/uploads/2022/10/mutton-meat.jpeg"
+    },
+    {
+        "name" : "Chiken",
+        "price" : 50,
+        "category" : "meat",
+        "image" : "https://content.jdmagicbox.com/comp/malappuram/k6/9999px483.x483.180503190939.t1k6/catalogue/chiken-shop-kottakkal-malappuram-1myr0vhspt.jpg?clr="
+    }
+]
